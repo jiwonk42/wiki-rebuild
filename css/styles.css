@@ -13,9 +13,44 @@ img {
   padding-left: 5px;
 }
 .well {
-  height:180px;
+  height:150px;
 }
 
 .welmessage h1{
   font-size:18px;
+  margin-top: -5px;
+}
+
+.header {
+  height: 100px;
+}
+
+.tab {
+  font-size: 12px;
+}
+
+.right-tab ul {
+  float:right;
+  margin-right: -180px;
+  margin-top: 50px;
+}
+
+.left-tab ul {
+  float:left;
+  margin-top: 50px;
+}
+.header ul {
+  display:flex;
+}
+.menu {
+  float: right;
+}
+
+.header ul li {
+  padding-left: 10px;
+}
+
+.header {
+  background-color: #f6f6f6;
+  height:80px;
 }
