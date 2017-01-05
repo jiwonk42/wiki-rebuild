@@ -2,7 +2,13 @@ img {
   width:100%;
 }
 
-#sidebar div{
+#sidebar {
  border-right: 1px solid #A7D7F9;
  background-color: #F6F6F6;
+ float: left;
+ width:180px;
+}
+
+.list-unstyled{
+  padding-left: 5px;
 }
