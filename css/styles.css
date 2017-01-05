@@ -12,3 +12,10 @@ img {
 .list-unstyled{
   padding-left: 5px;
 }
+.well {
+  height:180px;
+}
+
+.welmessage h1{
+  font-size:18px;
+}
