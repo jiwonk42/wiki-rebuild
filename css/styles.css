@@ -31,6 +31,7 @@ img {
   color:#0645AD;
   background: linear-gradient(#f6f6f6, #EAF4F8);
   margin-left: -5px;
+  border-bottom: 1px solid #A7D7F9;
 }
 .well {
   height:150px;
@@ -45,6 +46,9 @@ img {
   height: 100px;
 }
 
+.href {
+  color:#0645AD;
+}
 .tab {
   font-size: 12px;
 }
@@ -82,10 +86,14 @@ img {
 }
 
 .header {
-  background-color: #f6f6f6;
+  background:linear-gradient(white, #f6f6f6);
   height:80px;
+  border-bottom: 1px solid #A7D7F9;
 }
 
+span {
+  color:#0645AD;
+}
 .greencol .panel-body{
   background-color:#f5fffa;
 }
@@ -96,8 +104,14 @@ img {
 
 .greencol .panel-heading {
   background-color: #CEF2E0;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 .bluecol .panel-heading {
   background-color: #CEDFF2;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
 }
